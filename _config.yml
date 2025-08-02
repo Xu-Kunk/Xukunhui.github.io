@@ -13,9 +13,9 @@ title                    : "Kunhui Xu's Academic Homepage"
 title_separator          : "-"
 name                     : &name "Kunhui Xu（徐坤辉）"
 description              : "Master Student at Wenzhou Medical University. Research interests in Ophthalmology and AI for Medicine."
-url                      : https://xu-kunk.github.io/Xukunhui.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://Xu-Kunk.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Xu-Kunk/XuKunhui.github.io"
+repository               : "Xu-Kunk/Xu-Kunk.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
